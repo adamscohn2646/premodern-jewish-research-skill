@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A specialized Claude Skill for rigorous research into Jewish texts and topics using **premodern primary sources** (pre-Haskalah, roughly before 1800). It prioritizes direct engagement with classical commentators in their original languages (Hebrew, Aramaic, etc.), preserves disagreements among authorities, and provides historical/biographical context for each cited voice.
+A specialized Claude Skill for rigorous research into Jewish texts and topics using **premodern primary sources** (pre-Haskalah, roughly before 1800). It prioritizes direct engagement with classical commentators in their original languages (Hebrew, Aramaic, etc.), preserves disagreements among authorities, and provides historical/biographical context for each cited voice. It heavily leverages the capabilities of connected texts at sefaria.org.
 
 This skill is ideal for:
 - Torah commentary and parshanut
