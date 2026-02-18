@@ -4,6 +4,8 @@
 
 A specialized Claude Skill for rigorous research into Jewish texts and topics using **premodern primary sources** (pre-Haskalah, roughly before 1800). It prioritizes direct engagement with classical commentators in their original languages (Hebrew, Aramaic, etc.), preserves disagreements among authorities, and provides historical/biographical context for each cited voice. It heavily leverages the capabilities of connected texts at sefaria.org.
 
+Research premodern Jewish texts (pre-Haskalah, roughly pre-1800) using Sefaria's MCP tools. This skill provides direct access to Sefaria's text database, search engines, dictionaries, and cross-reference system in Claude.
+
 This skill is ideal for:
 - Torah commentary and parshanut
 - Halakhic (legal) questions
